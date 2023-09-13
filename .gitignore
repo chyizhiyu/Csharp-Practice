@@ -1,0 +1,13 @@
+# 排除工程文件夹
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+.idea/
+ProjectSettings/
+
+# 排除文件类型
+*.csproj
+*.sln
+*.user
