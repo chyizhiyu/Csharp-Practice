@@ -41,4 +41,5 @@ public class Sc_input : MonoBehaviour
 
     }
     
+    
 }
